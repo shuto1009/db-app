@@ -1,0 +1,12 @@
+# 秘密の情報（絶対にGitHubへ送らない）
+.env
+*.env
+config.local.*
+*secret*
+*password*
+
+# OS・エディタのゴミ
+.DS_Store
+Thumbs.db
+~$*
+.vscode/settings.json
